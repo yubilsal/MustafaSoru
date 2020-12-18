@@ -2,6 +2,6 @@ package com.javaLearning;
 
 public interface MathOperation {
 
-    public  void operate() ;
+    public  void operate(int a, int b) ;
 
 }

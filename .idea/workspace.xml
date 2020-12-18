@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="263217af-71ea-4d9e-b67b-1fb868131f52" name="Default Changelist" comment="initial">
+      <change afterPath="$PROJECT_DIR$/../../../MustafaSoru/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MustafaSoru/.idea/MustafaSoru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MustafaSoru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MustafaSoru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MustafaSoru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Divide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Divide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/MathOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Multiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Sub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Summary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/com/javaLearning/Summary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaLearning/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaLearning/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaLearning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaLearning/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaLearning/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaLearning/MathOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaLearning/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaLearning/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaLearning/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaLearning/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaLearning/Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaLearning/Summary.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Yusuf Bilge\Desktop\Java Learning\Pluralsight\java-collections-fundamentals\untitled1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lpytRO5IhZvVUHlQUbdUcY5Z14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaLearning.Main" />
+      <module name="untitled1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="263217af-71ea-4d9e-b67b-1fb868131f52" name="Default Changelist" comment="" />
+      <created>1608308541307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608308541307</updated>
+      <workItem from="1608308544455" duration="2218000" />
+      <workItem from="1608310823489" duration="3816000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1608310888669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608310888669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1608310546798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310546798" />
+    <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309653382" />
+    <state x="444" y="117" key="CommitChangelistDialog2" timestamp="1608310888022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="444" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310888022" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1608310840655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310840655" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1608324113293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608324113293" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1608324113293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608324113293" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1608324113293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608324113293" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1608324113293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608324113293" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608310781208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310781208" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1608310781208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310781208" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1608310781208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310781208" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1608310781208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310781208" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608309890012" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1608310992904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608310992904" />
+  </component>
+</project>
